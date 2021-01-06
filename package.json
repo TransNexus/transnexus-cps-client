@@ -14,7 +14,7 @@
     "lint": "node ./node_modules/eslint/bin/eslint . --max-warnings=0"
   },
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "ioredis": "^4.17.3",
     "prompt": "^1.0.0",
     "ts-nats": "^1.2.15",
